@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Logamithran</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=An+AI+Engineer+in+the+making;2nd+Year+AI+%26+DS+Student;Open+Source+Lover+❤️;Always+Learning...&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=An+AI+Engineer+in+the+making;3rd+Year+AI+%26+DS+Student;Open+Source+Lover+❤️;Always+Learning...&center=true&width=500&height=45" />
 </p>
 
 ---
