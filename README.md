@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Logamithran&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Logamithrancb&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
 
@@ -175,12 +175,12 @@ Secure console-based examination app with OOP design, exception handling, auth, 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Logamithran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logamithran&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Logamithrancb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logamithrancb&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Logamithran&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Logamithrancb&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Logamithran&theme=tokyo-night&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Logamithrancb&theme=tokyo-night&hide_border=true" />
 </div>
 
 <br/>
